@@ -1,0 +1,2 @@
+/Users/jakenichols/Documents/GitHub/XR World (Mac) - Jake/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/CMakeLists.txt
+/Users/jakenichols/Documents/GitHub/XR World (Mac) - Jake/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/CMakeLists.txt

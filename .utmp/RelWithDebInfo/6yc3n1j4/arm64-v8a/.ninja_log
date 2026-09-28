@@ -1,0 +1,10 @@
+# ninja log v5
+0	494	1790574606132845559	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	cb7ea124c1f7d668
+2	526	1790574606164706736	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	816081dac82ac3bd
+1	572	1790574606210593917	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	1b1980b244b627c4
+2	573	1790574606212215667	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	335a174f45de2ec5
+0	600	1790574606238149800	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	3107fb9d0391484b
+2	620	1790574606258564098	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	e133f942c1b816b2
+1	726	1790574606363895214	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	b4dfe9473e67861
+0	752	1790574606389921597	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	e3b9418797a2753
+752	794	1790574606431642902	/Users/jakenichols/Documents/GitHub/XR World (Mac) - Jake/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6yc3n1j4/obj/arm64-v8a/libgame.so	e2df535cf3803558
